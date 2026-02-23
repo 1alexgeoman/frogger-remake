@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="uk.ac.nott.cs.comp2013.froggerApp.model.AnimalTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2025-01-13T03:02:11" hostname="GOGS-PC02" time="0.224">
+  <properties/>
+  <testcase name="testCollision()" classname="uk.ac.nott.cs.comp2013.froggerApp.model.AnimalTest" time="0.157"/>
+  <testcase name="testMovementUp()" classname="uk.ac.nott.cs.comp2013.froggerApp.model.AnimalTest" time="0.018"/>
+  <testcase name="testMovementRight()" classname="uk.ac.nott.cs.comp2013.froggerApp.model.AnimalTest" time="0.011"/>
+  <testcase name="testWaterCollision()" classname="uk.ac.nott.cs.comp2013.froggerApp.model.AnimalTest" time="0.012"/>
+  <testcase name="testMovementDown()" classname="uk.ac.nott.cs.comp2013.froggerApp.model.AnimalTest" time="0.012"/>
+  <testcase name="testMovementLeft()" classname="uk.ac.nott.cs.comp2013.froggerApp.model.AnimalTest" time="0.007"/>
+  <system-out><![CDATA[679.8
+400.0
+]]></system-out>
+  <system-err><![CDATA[Jan 13, 2025 3:02:11 AM com.sun.javafx.application.PlatformImpl startup
+WARNING: Unsupported JavaFX configuration: classes were loaded from 'unnamed module @e350b40'
+]]></system-err>
+</testsuite>
